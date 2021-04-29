@@ -5,4 +5,4 @@ Welcome to the IBL's policy and regulation repository.  The documents provided h
 
 The policies listed here are all public (and will have Zenodo DOIs shortly).
 
-Policies in developement are private and can be accessed with an IBL account here: [IBL policies in-progress.](https://drive.google.com/drive/folders/1SrWAIragUwYGugzLt8l-y_24U4bcC6Wr?usp=sharing)
+Policies in development are private and can be accessed with an IBL account here: [IBL policies in-progress.](https://drive.google.com/drive/folders/1SrWAIragUwYGugzLt8l-y_24U4bcC6Wr?usp=sharing)
